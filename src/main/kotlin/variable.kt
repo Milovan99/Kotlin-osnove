@@ -1,8 +1,7 @@
 fun variable(){
-    val ime : String ="Milovan"
-    var prezime : String ="Jakovljevic"
-//razlika izmedju val i var je da verdnost var promenjive moze biti izmenjena dok val se ne menja
+    val ime ="Milovan"
+    //razlika izmedju val i var je da verdnost var promenjive moze biti izmenjena dok val se ne menja
 
-    prezime="Jakovljević"
+    val prezime = "Jakovljević"
     println("$ime $prezime")
 }
