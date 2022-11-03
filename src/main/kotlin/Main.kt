@@ -1,4 +1,5 @@
 fun main(){
+
     helloWorld()
     variable()
     if (nullSafety()==null){
@@ -6,4 +7,5 @@ fun main(){
     }else{
         println(nullSafety())
     }
+    uloga()
 }
