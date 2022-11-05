@@ -74,7 +74,7 @@ fun lozinka(lozinka:String){
 }
 //range operator funckcija ce kreirati niz na osnovu prosledjenih argumenata i ispisace niz
 fun nizBrojeva(pocetakNiza:Int,krajNiza:Int){
-    var niz=pocetakNiza..krajNiza
+    val niz=pocetakNiza..krajNiza
     for(n in niz){
         print("$n ")
     }
