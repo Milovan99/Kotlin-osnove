@@ -12,6 +12,9 @@ fun main(){
     danUNedelji(dan = 2)
     tacniOdgovori(odgovor = 'b')
     cifaraUBroju(broj = 555)
-
+    osnovniTipovi(ime = "Milovan", godine = 23, visina = 190.5)
+    tipPodatakaMinIMax()
+    bool(prviBroj = 22, drugiBroj = 22)
+    displayUniCode()
 }
 
