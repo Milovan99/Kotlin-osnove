@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64697d96-57fc-4c19-8ac7-035c17eb8350" name="Changes" comment="Kontrola toka 2">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_1/tipovi_podataka.kt" afterDir="false" />
+    <list default="true" id="64697d96-57fc-4c19-8ac7-035c17eb8350" name="Changes" comment="Tipovi podataka">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_1/for_petlja.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/poglavlje_1/tipovi_podataka.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_1/tipovi_podataka.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667762653349</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Tipovi podataka">
+      <created>1667765071462</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667765071462</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +161,7 @@
     <MESSAGE value="when" />
     <MESSAGE value="Kontrola toka" />
     <MESSAGE value="Kontrola toka 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kontrola toka 2" />
+    <MESSAGE value="Tipovi podataka" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tipovi podataka" />
   </component>
 </project>

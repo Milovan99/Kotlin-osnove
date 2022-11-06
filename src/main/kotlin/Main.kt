@@ -16,5 +16,10 @@ fun main(){
     tipPodatakaMinIMax()
     bool(prviBroj = 22, drugiBroj = 22)
     displayUniCode()
+    forPetalja()
+    ugnezdenaForPetlja()
+    prekid()
+    lable()
+    continueFor()
 }
 

@@ -66,4 +66,5 @@ fun displayUniCode() {
         print(" ${ch++} ")
         i++
     }
+    println()
 }
