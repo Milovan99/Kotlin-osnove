@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64697d96-57fc-4c19-8ac7-035c17eb8350" name="Changes" comment="when">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_1/kontrola_toka.kt" afterDir="false" />
+    <list default="true" id="64697d96-57fc-4c19-8ac7-035c17eb8350" name="Changes" comment="Kontrola toka">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/poglavlje_1/kontrola_toka.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_1/kontrola_toka.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667515879640</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Kontrola toka">
+      <created>1667685954742</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667685954742</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Kontrola toka">
+      <created>1667685991319</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667685991319</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +144,7 @@
     <MESSAGE value="Promenjive" />
     <MESSAGE value="null safety i if else" />
     <MESSAGE value="when" />
-    <option name="LAST_COMMIT_MESSAGE" value="when" />
+    <MESSAGE value="Kontrola toka" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kontrola toka" />
   </component>
 </project>

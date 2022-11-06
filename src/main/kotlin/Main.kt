@@ -8,5 +8,10 @@ fun main(){
     ocena(kolokvijum = 10, pristustvo = 5, ispit = 36)
     lozinka(lozinka = "Vazduh trepti ko da nebo gori")
     nizBrojeva(pocetakNiza = 3, krajNiza = 10)
+    ocena(bodovi = 51)
+    danUNedelji(dan = 2)
+    tacniOdgovori(odgovor = 'b')
+    cifaraUBroju(broj = 555)
+
 }
 

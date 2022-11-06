@@ -78,4 +78,54 @@ fun nizBrojeva(pocetakNiza:Int,krajNiza:Int){
     for(n in niz){
         print("$n ")
     }
+    println()
+}
+
+//if as expresion
+
+fun ocena(bodovi:Int){
+    val ocena = if(bodovi >=91){
+         10
+    }else if(bodovi >= 81){
+        9
+    }else if (bodovi >= 71){
+        8
+    }else if(bodovi >= 61){
+        7
+    }else if(bodovi >= 51){
+        6
+    }else{
+        5
+    }
+    println("Ocena je :$ocena")
+
+}
+//when expresion
+fun danUNedelji(dan:Int){
+    when(dan){
+        1->println("Ponedeljak")
+        2->println("Utorak")
+        3->println("Sreda")
+        4->println("Cetvrtak")
+        5->println("Petak")
+        6->println("Subota")
+        7->println("Nedelja")
+        else->println("U sedmici ima 7 dana , izmenite broj dana")
+    }
+}
+fun tacniOdgovori(odgovor:Char){
+    when(odgovor){
+        'a','b','c'-> println("Odgovor nije tacan")
+        'd' ->println("Odgovor je tacan")
+        else -> println("Vas odgovor je nevazeci")
+    }
+}
+
+fun cifaraUBroju(broj:Int){
+    when(broj){
+        in 1..9->println("Broj je jednocifren")
+        in 10..99 ->println("Broj je dvocifren")
+        in 100..999 -> println("Broj je trocifren")
+        else->println("Program ispituje samo do trocifrenog broja , vas broj je veci")
+    }
 }
