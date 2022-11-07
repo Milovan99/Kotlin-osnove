@@ -35,11 +35,13 @@ fun main(){
     println(timeConversionTriple(400))
     display(myTriple = Triple(2,32,33))
 
- */
+
     nullSafety()
     safeCall(mayBeNull = null)
     elvisOperator()
     sure()
+ */
+    typecasting()
 }
 
 
