@@ -43,7 +43,7 @@ fun main(){
 
     typecasting()
 
- */
+
     aritOp()
     compOp()
     comOp2()
@@ -53,6 +53,10 @@ fun main(){
     or()
     xor()
     shift()
+
+ */
+    whilePetlja()
+
 }
 
 
