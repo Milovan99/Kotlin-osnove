@@ -1,7 +1,7 @@
 import poglavlje_1.*
 
 fun main(){
-
+/*
     ime(ime = "Milovan")
     markaAuta(marka = "Alfa")
     dizanjeIzBedza(kila = 150)
@@ -34,5 +34,13 @@ fun main(){
     println(parovi(120))
     println(timeConversionTriple(400))
     display(myTriple = Triple(2,32,33))
+
+ */
+    nullSafety()
+    safeCall(mayBeNull = null)
+    elvisOperator()
+    sure()
 }
+
+
 
