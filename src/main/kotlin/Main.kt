@@ -40,8 +40,19 @@ fun main(){
     safeCall(mayBeNull = null)
     elvisOperator()
     sure()
- */
+
     typecasting()
+
+ */
+    aritOp()
+    compOp()
+    comOp2()
+    increment()
+    jednac()
+    and()
+    or()
+    xor()
+    shift()
 }
 
 
