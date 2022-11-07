@@ -21,5 +21,18 @@ fun main(){
     prekid()
     lable()
     continueFor()
+    pozdrav()
+    println(poruka("Ovo je poruka"))
+    println(sabiranje(3,4))
+    println(sabiranjeEx(5,6))
+    println(veciBrojEx(3,9))
+    definisaniParametar()
+    ispisiKolekciju(list = listOf("sad","posle"))
+    saberiBrojeve(brojevi = listOf(4,3,12,5))
+    varargString("dasa","dsa")
+    mesanePromenjive("TEkst",4,5.2,100f)
+    println(parovi(120))
+    println(timeConversionTriple(400))
+    display(myTriple = Triple(2,32,33))
 }
 

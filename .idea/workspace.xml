@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64697d96-57fc-4c19-8ac7-035c17eb8350" name="Changes" comment="Tipovi podataka">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_1/for_petlja.kt" afterDir="false" />
+    <list default="true" id="64697d96-57fc-4c19-8ac7-035c17eb8350" name="Changes" comment="For petlja">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_1/funkcija.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/poglavlje_1/tipovi_podataka.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_1/tipovi_podataka.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667765071462</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="For petlja">
+      <created>1667766869293</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667766869293</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +168,7 @@
     <MESSAGE value="Kontrola toka" />
     <MESSAGE value="Kontrola toka 2" />
     <MESSAGE value="Tipovi podataka" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tipovi podataka" />
+    <MESSAGE value="For petlja" />
+    <option name="LAST_COMMIT_MESSAGE" value="For petlja" />
   </component>
 </project>
