@@ -1,6 +1,6 @@
 import poglavlje_1.*
-import poglavlje_2.auto
-import poglavlje_2.klasaIFunkcija
+import poglavlje_2.*
+
 
 fun main(){
 /*
@@ -66,6 +66,7 @@ fun main(){
      */
     klasaIFunkcija()
     auto()
+    saZadPar()
 }
 
 
