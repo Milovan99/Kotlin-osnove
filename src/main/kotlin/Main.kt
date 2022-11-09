@@ -70,9 +70,14 @@ fun main(){
     copy()
 dekompozicija()
     hash()
-     */
-overl()
+    overl()
     digitron()
+     */
+pozoviKonst()
+    pozPrimarniKonst()
+    pozoviPKonstSaP()
+    konstSaInit()
+    konstSaInitIThis()
 }
 
 
