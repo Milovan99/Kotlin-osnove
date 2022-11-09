@@ -67,10 +67,12 @@ fun main(){
     saZadPar()
      toStr()
     jednakost()
-     */
-copy()
+    copy()
 dekompozicija()
     hash()
+     */
+overl()
+    digitron()
 }
 
 

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64697d96-57fc-4c19-8ac7-035c17eb8350" name="Changes" comment="Konstruktor sa zadanim parametrima">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_2/klase podataka.kt" afterDir="false" />
+    <list default="true" id="64697d96-57fc-4c19-8ac7-035c17eb8350" name="Changes" comment="Klase podataka">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_2/function_overloading.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
@@ -14,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -196,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668015394247</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Klase podataka">
+      <created>1668020571682</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1668020571682</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,6 +233,18 @@
     <MESSAGE value="While petlja" />
     <MESSAGE value="Klase i funkcije" />
     <MESSAGE value="Konstruktor sa zadanim parametrima" />
-    <option name="LAST_COMMIT_MESSAGE" value="Konstruktor sa zadanim parametrima" />
+    <MESSAGE value="Klase podataka" />
+    <option name="LAST_COMMIT_MESSAGE" value="Klase podataka" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Main.kt</url>
+          <line>74</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
