@@ -1,4 +1,6 @@
 import poglavlje_1.*
+import poglavlje_2.auto
+import poglavlje_2.klasaIFunkcija
 
 fun main(){
 /*
@@ -54,9 +56,16 @@ fun main(){
     xor()
     shift()
 
- */
+
     whilePetlja()
 
+ */
+
+    /*Poglevlje 2
+
+     */
+    klasaIFunkcija()
+    auto()
 }
 
 
