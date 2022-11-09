@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64697d96-57fc-4c19-8ac7-035c17eb8350" name="Changes" comment="Klase i funkcije">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_2/konstruktor_sa_zadanim_parametrima.kt" afterDir="false" />
+    <list default="true" id="64697d96-57fc-4c19-8ac7-035c17eb8350" name="Changes" comment="Konstruktor sa zadanim parametrima">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_2/klase podataka.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -187,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668014780799</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Konstruktor sa zadanim parametrima">
+      <created>1668015394247</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1668015394247</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +225,7 @@
     <MESSAGE value="Operatori" />
     <MESSAGE value="While petlja" />
     <MESSAGE value="Klase i funkcije" />
-    <option name="LAST_COMMIT_MESSAGE" value="Klase i funkcije" />
+    <MESSAGE value="Konstruktor sa zadanim parametrima" />
+    <option name="LAST_COMMIT_MESSAGE" value="Konstruktor sa zadanim parametrima" />
   </component>
 </project>

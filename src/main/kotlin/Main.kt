@@ -62,11 +62,15 @@ fun main(){
  */
 
     /*Poglevlje 2
-
-     */
-    klasaIFunkcija()
+  klasaIFunkcija()
     auto()
     saZadPar()
+     toStr()
+    jednakost()
+     */
+copy()
+dekompozicija()
+    hash()
 }
 
 
