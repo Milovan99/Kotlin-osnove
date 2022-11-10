@@ -89,9 +89,10 @@ dekompozicija()
     enkaps()
        banka()
        prevoz()
+       interfejs()
  */
-interfejs()
 
+override()
 
 
 }
