@@ -72,12 +72,16 @@ dekompozicija()
     hash()
     overl()
     digitron()
-     */
-pozoviKonst()
+    pozoviKonst()
     pozPrimarniKonst()
     pozoviPKonstSaP()
     konstSaInit()
     konstSaInitIThis()
+     */
+
+
+    osobaSec()
+    proizvod()
 }
 
 
