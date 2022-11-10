@@ -87,10 +87,11 @@ dekompozicija()
     autoEx()
    hijerarhija()
     enkaps()
+       banka()
  */
 
+prevoz()
 
-   banka()
 
 }
 
