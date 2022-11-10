@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64697d96-57fc-4c19-8ac7-035c17eb8350" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_3/enkapsulacija.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_3/sakrivanje_impementacije.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -247,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668095228591</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Enkapsulacija">
+      <created>1668103447152</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1668103447152</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,6 +290,7 @@
     <MESSAGE value="Secondary konstruktor" />
     <MESSAGE value="Apstrakcija" />
     <MESSAGE value="Hijerarhija" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hijerarhija" />
+    <MESSAGE value="Enkapsulacija" />
+    <option name="LAST_COMMIT_MESSAGE" value="Enkapsulacija" />
   </component>
 </project>

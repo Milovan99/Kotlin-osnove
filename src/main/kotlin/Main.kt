@@ -1,9 +1,6 @@
 import poglavlje_1.*
 import poglavlje_2.*
-import poglavlje_3.apstrakcija
-import poglavlje_3.autoEx
-import poglavlje_3.enkaps
-import poglavlje_3.hijerarhija
+import poglavlje_3.*
 
 
 fun main(){
@@ -89,9 +86,11 @@ dekompozicija()
  apstrakcija()
     autoEx()
    hijerarhija()
+    enkaps()
  */
 
-   enkaps()
+
+   banka()
 
 }
 
