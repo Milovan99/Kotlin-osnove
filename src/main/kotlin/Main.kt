@@ -88,9 +88,10 @@ dekompozicija()
    hijerarhija()
     enkaps()
        banka()
+       prevoz()
  */
+interfejs()
 
-prevoz()
 
 
 }
