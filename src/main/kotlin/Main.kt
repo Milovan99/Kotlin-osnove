@@ -1,6 +1,7 @@
 import poglavlje_1.*
 import poglavlje_2.*
 import poglavlje_3.*
+import poglavlje_4.ljubimac
 
 
 fun main(){
@@ -90,9 +91,10 @@ dekompozicija()
        banka()
        prevoz()
        interfejs()
+       override()
  */
 
-override()
+ljubimac()
 
 
 }

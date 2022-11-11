@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64697d96-57fc-4c19-8ac7-035c17eb8350" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_3/overriding.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_4/aggresion.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668119105276</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Overriding">
+      <created>1668121883094</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1668121883094</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,7 +296,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Promenjive" />
     <MESSAGE value="null safety i if else" />
     <MESSAGE value="when" />
     <MESSAGE value="Kontrola toka" />
@@ -315,6 +320,7 @@
     <MESSAGE value="sakrivanje implementacije" />
     <MESSAGE value="Nasledjivanje" />
     <MESSAGE value="Interfejs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interfejs" />
+    <MESSAGE value="Overriding" />
+    <option name="LAST_COMMIT_MESSAGE" value="Overriding" />
   </component>
 </project>
