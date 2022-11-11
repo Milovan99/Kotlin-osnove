@@ -1,6 +1,7 @@
 import poglavlje_1.*
 import poglavlje_2.*
 import poglavlje_3.*
+import poglavlje_4.companion
 import poglavlje_4.ljubimac
 
 
@@ -92,9 +93,14 @@ dekompozicija()
        prevoz()
        interfejs()
        override()
- */
 
-ljubimac()
+ */
+    /*Poglavlje 4
+      ljubimac()
+     */
+
+companion()
+
 
 
 }
