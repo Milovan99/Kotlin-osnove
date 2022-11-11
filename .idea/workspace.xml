@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64697d96-57fc-4c19-8ac7-035c17eb8350" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_4/companion_object2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_4/kompozicija.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
@@ -296,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668191201034</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Companion object2">
+      <created>1668192637415</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1668192637415</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,7 +318,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Kontrola toka" />
     <MESSAGE value="Kontrola toka 2" />
     <MESSAGE value="Tipovi podataka" />
     <MESSAGE value="For petlja" />
@@ -336,6 +342,7 @@
     <MESSAGE value="Overriding" />
     <MESSAGE value="Aggresion" />
     <MESSAGE value="Companion object" />
-    <option name="LAST_COMMIT_MESSAGE" value="Companion object" />
+    <MESSAGE value="Companion object2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Companion object2" />
   </component>
 </project>
