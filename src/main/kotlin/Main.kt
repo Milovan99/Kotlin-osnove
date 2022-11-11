@@ -2,6 +2,7 @@ import poglavlje_1.*
 import poglavlje_2.*
 import poglavlje_3.*
 import poglavlje_4.companion
+import poglavlje_4.companion2
 import poglavlje_4.ljubimac
 
 
@@ -97,9 +98,10 @@ dekompozicija()
  */
     /*Poglavlje 4
       ljubimac()
+      companion()
      */
+companion2()
 
-companion()
 
 
 
