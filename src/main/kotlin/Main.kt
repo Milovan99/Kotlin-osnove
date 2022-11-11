@@ -99,9 +99,10 @@ dekompozicija()
       companion()
       companion2()
       ispiti()
+      delegation()
      */
 
-delegation()
+enum()
 
 
 

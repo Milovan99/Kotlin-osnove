@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64697d96-57fc-4c19-8ac7-035c17eb8350" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_4/delegate_propertis.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_4/enum.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -310,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668194867515</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Delegation">
+      <created>1668203031588</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1668203031588</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -325,7 +331,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Tipovi podataka" />
     <MESSAGE value="For petlja" />
     <MESSAGE value="Funkcija" />
     <MESSAGE value="Null Safety" />
@@ -350,6 +355,7 @@
     <MESSAGE value="Companion object" />
     <MESSAGE value="Companion object2" />
     <MESSAGE value="Kompozicija" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kompozicija" />
+    <MESSAGE value="Delegation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delegation" />
   </component>
 </project>
