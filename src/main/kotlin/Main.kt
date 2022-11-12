@@ -101,10 +101,11 @@ dekompozicija()
       ispiti()
       delegation()
       enum()
+      enumclass()
      */
 
 
-enumclass()
+innerClas()
 
 
 
