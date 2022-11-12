@@ -102,13 +102,11 @@ dekompozicija()
       delegation()
       enum()
       enumclass()
+      innerClas()
+      nestedKlasa()
+
      */
-
-
-innerClas()
-
-
-
+objekat()
 }
 
 
