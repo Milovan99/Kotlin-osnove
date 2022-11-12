@@ -105,8 +105,10 @@ dekompozicija()
       innerClas()
       nestedKlasa()
 objekat()
-     */
+
 objInterClass()
+     */
+propertis()
 }
 
 
