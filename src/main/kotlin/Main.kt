@@ -100,9 +100,11 @@ dekompozicija()
       companion2()
       ispiti()
       delegation()
+      enum()
      */
 
-enum()
+
+enumclass()
 
 
 

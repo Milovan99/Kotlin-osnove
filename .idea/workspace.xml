@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64697d96-57fc-4c19-8ac7-035c17eb8350" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_4/enum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_4/enum_interface.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -316,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668203031588</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Enum">
+      <created>1668205926710</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1668205926710</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -331,7 +339,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="For petlja" />
     <MESSAGE value="Funkcija" />
     <MESSAGE value="Null Safety" />
     <MESSAGE value="Izmena tipa" />
@@ -356,6 +363,7 @@
     <MESSAGE value="Companion object2" />
     <MESSAGE value="Kompozicija" />
     <MESSAGE value="Delegation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delegation" />
+    <MESSAGE value="Enum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Enum" />
   </component>
 </project>
