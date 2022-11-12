@@ -104,9 +104,9 @@ dekompozicija()
       enumclass()
       innerClas()
       nestedKlasa()
-
-     */
 objekat()
+     */
+objInterClass()
 }
 
 
