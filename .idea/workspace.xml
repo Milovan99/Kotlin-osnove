@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64697d96-57fc-4c19-8ac7-035c17eb8350" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poglavlje_4/seald_klase.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/duble_int.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/TestExample.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kotlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -34,18 +36,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Milovan/Kotlin/HelloWorld&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Milovan/Kotlin/HelloWorld",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.MainKt">
+}]]></component>
+  <component name="RunManager" selected="TestNG.TestExample (2)">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainKt" />
       <module name="Kotlin" />
@@ -67,13 +73,52 @@
       </RunnerSettings>
       <method v="2" />
     </configuration>
+    <configuration name="TestExample (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestExample (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestExample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Kotlin.MainKt" />
       <item itemvalue="Remote JVM Debug.Unnamed" />
+      <item itemvalue="TestNG.TestExample" />
+      <item itemvalue="TestNG.TestExample (1)" />
+      <item itemvalue="TestNG.TestExample (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestExample (2)" />
         <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="TestNG.TestExample (1)" />
+        <item itemvalue="TestNG.TestExample" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668265117941</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Seald Klase">
+      <created>1668276321161</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1668276321161</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -374,7 +426,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Klase i funkcije" />
     <MESSAGE value="Konstruktor sa zadanim parametrima" />
     <MESSAGE value="Klase podataka" />
     <MESSAGE value="Function overloading" />
@@ -399,6 +450,7 @@
     <MESSAGE value="Objekat" />
     <MESSAGE value="Objekat Interfejs Klasa" />
     <MESSAGE value="Propertis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Propertis" />
+    <MESSAGE value="Seald Klase" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seald Klase" />
   </component>
 </project>
