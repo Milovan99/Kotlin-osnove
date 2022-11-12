@@ -107,8 +107,9 @@ dekompozicija()
 objekat()
 
 objInterClass()
-     */
 propertis()
+     */
+seald()
 }
 
 
